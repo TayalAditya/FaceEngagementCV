@@ -1,0 +1,6 @@
+# Runtime dependencies used by this solution.
+opencv-python==4.9.0.80
+face_recognition==1.3.0
+mediapipe==0.10.14
+numpy==1.26.4
+Pillow==10.3.0

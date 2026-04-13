@@ -1,0 +1,29 @@
+# Dataset - not committed (video + reference face images)
+known_faces/*.png
+known_faces/*.jpg
+known_faces/*.jpeg
+video_sample_1.mov
+*.mov
+*.mp4
+
+# Generated outputs
+report.html
+integration_output.json
+demo.mp4
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Output dirs
+output/
+crops/
+
+# IDE
+.vscode/
+.idea/
